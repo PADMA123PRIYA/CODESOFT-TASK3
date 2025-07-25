@@ -1,4 +1,4 @@
-# CODESOFT-TASK3
+# CODSOFT-TASK3
 
 🌸 Iris Flower Classification:
 
